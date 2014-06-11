@@ -32,7 +32,22 @@
 })();
 
 
-/*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // this does the DOM search for $('.container') "n" times
@@ -57,4 +72,3 @@ for (var i = 0; i < n; i++) {
 }
 $('.container').append($html);
 
-*/
