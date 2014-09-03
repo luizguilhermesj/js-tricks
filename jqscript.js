@@ -1,3 +1,4 @@
+
 (function(){
 
     var Class = function() {
@@ -49,10 +50,10 @@
 
 
 
-
+/*
 // this does the DOM search for $('.container') "n" times
 for (var i = 0; i < n; i++) {
-    $('.container').append(“Line “+i+”<br />”);
+    $('.container').append("Line "+i+"<br />");
 }
 
 // this accomplishes the same thing...
@@ -71,4 +72,4 @@ for (var i = 0; i < n; i++) {
     $html += 'Line ' + i + '<br />';
 }
 $('.container').append($html);
-
+*/
